@@ -54,7 +54,7 @@
     "rehype-stringify": "^10.0.1",
     "shiki": "^3.19.0",
     "tsup": "^8.5.1",
-    "vitest": "^4.0.15"
+    "vitest": "^4.1.0"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0",
@@ -74,7 +74,7 @@
     "remend": "workspace:*",
     "tailwind-merge": "^3.4.0",
     "unified": "^11.0.5",
-    "mermaid": "^11.12.2",
+    "mermaid": "^11.15.0",
     "unist-util-visit": "^5.0.0",
     "unist-util-visit-parents": "^6.0.0"
   }
